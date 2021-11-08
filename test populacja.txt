@@ -1,0 +1,141 @@
+Nowy graf
+Ilosc wierzcholkow: 100
+Ilosc krawedzi:177
+--------------------
+   TEST POPULACJI
+--------------------
+
+Test dla populacji: 10
+Czas trwania: 13 sekund, Srednia dlugosc sciezki: 80238
+Czas trwania: 27 sekund, Srednia dlugosc sciezki: 75896.4
+Czas trwania: 40 sekund, Srednia dlugosc sciezki: 70785.8
+Czas trwania: 54 sekund, Srednia dlugosc sciezki: 70472
+Czas trwania: 70 sekund, Srednia dlugosc sciezki: 71740.3
+Czas trwania: 92 sekund, Srednia dlugosc sciezki: 88088.7
+Czas trwania: 114 sekund, Srednia dlugosc sciezki: 81910.3
+Czas trwania: 133 sekund, Srednia dlugosc sciezki: 68814.3
+Czas trwania: 155 sekund, Srednia dlugosc sciezki: 76196.3
+Czas trwania: 180 sekund, Srednia dlugosc sciezki: 75435
+Czas trwania: 206 sekund, Srednia dlugosc sciezki: 82979.1
+Czas trwania: 234 sekund, Srednia dlugosc sciezki: 80361.9
+Czas trwania: 269 sekund, Srednia dlugosc sciezki: 103304
+Czas trwania: 296 sekund, Srednia dlugosc sciezki: 82090
+Czas trwania: 320 sekund, Srednia dlugosc sciezki: 74087.3
+Czas trwania: 343 sekund, Srednia dlugosc sciezki: 76714.1
+Czas trwania: 364 sekund, Srednia dlugosc sciezki: 70812.9
+Czas trwania: 384 sekund, Srednia dlugosc sciezki: 70626.2
+Czas trwania: 409 sekund, Srednia dlugosc sciezki: 66866.2
+Czas trwania: 430 sekund, Srednia dlugosc sciezki: 72824.1
+Czas trwania: 449 sekund, Srednia dlugosc sciezki: 63466
+Czas trwania: 471 sekund, Srednia dlugosc sciezki: 74906.5
+Czas trwania: 495 sekund, Srednia dlugosc sciezki: 80771.7
+Czas trwania: 515 sekund, Srednia dlugosc sciezki: 69686.7
+Czas trwania: 540 sekund, Srednia dlugosc sciezki: 83610.3
+Czas trwania: 568 sekund, Srednia dlugosc sciezki: 93940.7
+Czas trwania: 598 sekund, Srednia dlugosc sciezki: 97361.4
+Czas trwania: 621 sekund, Srednia dlugosc sciezki: 76389.9
+Czas trwania: 643 sekund, Srednia dlugosc sciezki: 75353.5
+Czas trwania: 669 sekund, Srednia dlugosc sciezki: 88326.3
+Czas trwania: 692 sekund, Srednia dlugosc sciezki: 79682.8
+Czas trwania: 721 sekund, Srednia dlugosc sciezki: 95477.1
+Czas trwania: 748 sekund, Srednia dlugosc sciezki: 91932.1
+Czas trwania: 773 sekund, Srednia dlugosc sciezki: 85308.1
+Czas trwania: 794 sekund, Srednia dlugosc sciezki: 76762.2
+Czas trwania: 821 sekund, Srednia dlugosc sciezki: 89409.3
+Czas trwania: 844 sekund, Srednia dlugosc sciezki: 81432
+Czas trwania: 866 sekund, Srednia dlugosc sciezki: 73374.2
+Czas trwania: 884 sekund, Srednia dlugosc sciezki: 66184
+Czas trwania: 909 sekund, Srednia dlugosc sciezki: 73949.8
+Czas trwania: 931 sekund, Srednia dlugosc sciezki: 78778.9
+Czas trwania: 956 sekund, Srednia dlugosc sciezki: 86770.6
+Czas trwania: 982 sekund, Srednia dlugosc sciezki: 87992.2
+Czas trwania: 1008 sekund, Srednia dlugosc sciezki: 86439
+Czas trwania: 1031 sekund, Srednia dlugosc sciezki: 81968.3
+Czas trwania: 1053 sekund, Srednia dlugosc sciezki: 78373.6
+Czas trwania: 1076 sekund, Srednia dlugosc sciezki: 72868.3
+Czas trwania: 1094 sekund, Srednia dlugosc sciezki: 65266
+Czas trwania: 1116 sekund, Srednia dlugosc sciezki: 77488.2
+Czas trwania: 1137 sekund, Srednia dlugosc sciezki: 75897.9
+Czas trwania: 1155 sekund, Srednia dlugosc sciezki: 62078.8
+Czas trwania: 1182 sekund, Srednia dlugosc sciezki: 95415.9
+Czas trwania: 1209 sekund, Srednia dlugosc sciezki: 91297.4
+Czas trwania: 1232 sekund, Srednia dlugosc sciezki: 80747.2
+Czas trwania: 1256 sekund, Srednia dlugosc sciezki: 83654.5
+Czas trwania: 1280 sekund, Srednia dlugosc sciezki: 81716.8
+Czas trwania: 1303 sekund, Srednia dlugosc sciezki: 79507.1
+Czas trwania: 1325 sekund, Srednia dlugosc sciezki: 76853
+Czas trwania: 1342 sekund, Srednia dlugosc sciezki: 62003.7
+Czas trwania: 1374 sekund, Srednia dlugosc sciezki: 106679
+Czas trwania: 1395 sekund, Srednia dlugosc sciezki: 72621.1
+Czas trwania: 1411 sekund, Srednia dlugosc sciezki: 60321.4
+Czas trwania: 1433 sekund, Srednia dlugosc sciezki: 76162.3
+Czas trwania: 1452 sekund, Srednia dlugosc sciezki: 66968.1
+Czas trwania: 1472 sekund, Srednia dlugosc sciezki: 70451.7
+Czas trwania: 1498 sekund, Srednia dlugosc sciezki: 89431.9
+Najkrotsza sciezka dla tej populacji: 60321.4
+
+Test dla populacji: 30
+Czas trwania: 34 sekund, Srednia dlugosc sciezki: 73030.3
+Czas trwania: 78 sekund, Srednia dlugosc sciezki: 84245.4
+Czas trwania: 121 sekund, Srednia dlugosc sciezki: 77708.3
+Czas trwania: 172 sekund, Srednia dlugosc sciezki: 85273.6
+Czas trwania: 223 sekund, Srednia dlugosc sciezki: 80532.8
+Czas trwania: 275 sekund, Srednia dlugosc sciezki: 78546
+Czas trwania: 329 sekund, Srednia dlugosc sciezki: 75850
+Czas trwania: 393 sekund, Srednia dlugosc sciezki: 84458.4
+Czas trwania: 461 sekund, Srednia dlugosc sciezki: 84697.2
+Czas trwania: 525 sekund, Srednia dlugosc sciezki: 78883.4
+Czas trwania: 598 sekund, Srednia dlugosc sciezki: 83254.2
+Czas trwania: 665 sekund, Srednia dlugosc sciezki: 77610.3
+Czas trwania: 735 sekund, Srednia dlugosc sciezki: 80830.5
+Czas trwania: 812 sekund, Srednia dlugosc sciezki: 87476.2
+Czas trwania: 880 sekund, Srednia dlugosc sciezki: 79164.2
+Czas trwania: 953 sekund, Srednia dlugosc sciezki: 82204.2
+Czas trwania: 1017 sekund, Srednia dlugosc sciezki: 73885.8
+Czas trwania: 1080 sekund, Srednia dlugosc sciezki: 74592.4
+Czas trwania: 1147 sekund, Srednia dlugosc sciezki: 77567.2
+Czas trwania: 1219 sekund, Srednia dlugosc sciezki: 83376.1
+Czas trwania: 1293 sekund, Srednia dlugosc sciezki: 85305.8
+Czas trwania: 1358 sekund, Srednia dlugosc sciezki: 74961.8
+Czas trwania: 1422 sekund, Srednia dlugosc sciezki: 75077.8
+Czas trwania: 1494 sekund, Srednia dlugosc sciezki: 82860.5
+Najkrotsza sciezka dla tej populacji: 73030.3
+
+Test dla populacji: 50
+Czas trwania: 67 sekund, Srednia dlugosc sciezki: 83009.6
+Czas trwania: 138 sekund, Srednia dlugosc sciezki: 82159
+Czas trwania: 206 sekund, Srednia dlugosc sciezki: 74527.2
+Czas trwania: 292 sekund, Srednia dlugosc sciezki: 85831.5
+Czas trwania: 379 sekund, Srednia dlugosc sciezki: 81802.6
+Czas trwania: 468 sekund, Srednia dlugosc sciezki: 79176.1
+Czas trwania: 563 sekund, Srednia dlugosc sciezki: 79714.4
+Czas trwania: 658 sekund, Srednia dlugosc sciezki: 75918.2
+Czas trwania: 755 sekund, Srednia dlugosc sciezki: 71392.7
+Czas trwania: 891 sekund, Srednia dlugosc sciezki: 78267.7
+Czas trwania: 1035 sekund, Srednia dlugosc sciezki: 82398.7
+Czas trwania: 1149 sekund, Srednia dlugosc sciezki: 70221
+Czas trwania: 1283 sekund, Srednia dlugosc sciezki: 82594.5
+Czas trwania: 1413 sekund, Srednia dlugosc sciezki: 74111.3
+Najkrotsza sciezka dla tej populacji: 70221
+
+Test dla populacji: 70
+Czas trwania: 124 sekund, Srednia dlugosc sciezki: 79770.8
+Czas trwania: 259 sekund, Srednia dlugosc sciezki: 85573.1
+Czas trwania: 396 sekund, Srednia dlugosc sciezki: 80744.7
+Czas trwania: 540 sekund, Srednia dlugosc sciezki: 76546.8
+Czas trwania: 724 sekund, Srednia dlugosc sciezki: 82436.7
+Czas trwania: 889 sekund, Srednia dlugosc sciezki: 80818.8
+Czas trwania: 1056 sekund, Srednia dlugosc sciezki: 73042
+Czas trwania: 1261 sekund, Srednia dlugosc sciezki: 79462.9
+Czas trwania: 1457 sekund, Srednia dlugosc sciezki: 81453
+Najkrotsza sciezka dla tej populacji: 73042
+
+Test dla populacji: 100
+Czas trwania: 190 sekund, Srednia dlugosc sciezki: 88079.9
+Czas trwania: 374 sekund, Srednia dlugosc sciezki: 81068.2
+Czas trwania: 554 sekund, Srednia dlugosc sciezki: 79092.2
+Czas trwania: 741 sekund, Srednia dlugosc sciezki: 79212.8
+Czas trwania: 923 sekund, Srednia dlugosc sciezki: 78276.4
+Czas trwania: 1107 sekund, Srednia dlugosc sciezki: 76448.8
+Czas trwania: 1296 sekund, Srednia dlugosc sciezki: 78423.2
+Najkrotsza sciezka dla tej populacji: 76448.8

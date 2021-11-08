@@ -1,0 +1,49 @@
+Nowy graf
+Ilosc wierzcholkow: 100
+Ilosc krawedzi:228
+--------------------
+     TEST CZASU
+--------------------
+
+Test 30-sekundowy (0.5-minutowy):
+Test nie zdazyl sie wykonac w zadanym czasie. Potrzebowal 125 sekund.
+
+Test 60-sekundowy (1-minutowy):
+Test nie zdazyl sie wykonac w zadanym czasie. Potrzebowal 125 sekund.
+
+Test 300-sekundowy (5-minutowy):
+Czas trwania: 125 sekund, Srednia dlugosc sciezki: 72055.4
+Czas trwania: 279 sekund, Srednia dlugosc sciezki: 77722.9
+Najkrotsza sciezka dotychczas: 72055.4
+
+Test 600-sekundowy (10-minutowy):
+Czas trwania: 435 sekund, Srednia dlugosc sciezki: 72209.7
+Najkrotsza sciezka dotychczas: 72055.4
+
+Test 900-sekundowy (15-minutowy):
+Czas trwania: 610 sekund, Srednia dlugosc sciezki: 78932
+Czas trwania: 782 sekund, Srednia dlugosc sciezki: 67427.6
+Najkrotsza sciezka dotychczas: 67427.6
+
+Test 1200-sekundowy (20-minutowy):
+Czas trwania: 992 sekund, Srednia dlugosc sciezki: 70654.9
+Czas trwania: 1190 sekund, Srednia dlugosc sciezki: 66099
+Najkrotsza sciezka dotychczas: 66099
+
+Test 1500-sekundowy (25-minutowy):
+Czas trwania: 1389 sekund, Srednia dlugosc sciezki: 63059.3
+Najkrotsza sciezka dotychczas: 63059.3
+
+Test 1800-sekundowy (30-minutowy):
+Czas trwania: 1608sekund, Srednia dlugosc sciezki: 65858.1
+Najkrotsza sciezka dotychczas: 63059.3
+
+Test 3600-sekundowy (60-minutowy):
+Czas trwania: 1824 sekund, Srednia dlugosc sciezki: 63090.4
+Czas trwania: 2076 sekund, Srednia dlugosc sciezki: 68595.4
+Czas trwania: 2341 sekund, Srednia dlugosc sciezki: 63333.6
+Czas trwania: 2632 sekund, Srednia dlugosc sciezki: 62769.9
+Czas trwania: 2904 sekund, Srednia dlugosc sciezki: 65101.2
+Czas trwania: 3178 sekund, Srednia dlugosc sciezki: 65370.3
+Czas trwania: 3477 sekund, Srednia dlugosc sciezki: 67819.3
+Najkrotsza sciezka dotychczas: 62769.9
